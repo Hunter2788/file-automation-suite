@@ -1,2 +1,22 @@
-# file-automation-suite
-A Python-based automation tool that organizes files in a selected folder by sorting them into categories such as images, videos, documents, and archives. Designed to save time and keep directories clean through simple, safe, and efficient file management.
+# 🧠 PyCode Improver Tool
+
+A lightweight CLI tool that analyzes Python code and suggests improvements.
+
+---
+
+## 🚀 Features
+
+- Paste Python code directly into CLI
+- Detects basic issues (syntax, structure)
+- Suggests improvements
+- Returns cleaned/refactored version
+- Lightweight (no dependencies)
+- Modular architecture for extension
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/yourusername/pycode-improver
+cd pycode-improver
